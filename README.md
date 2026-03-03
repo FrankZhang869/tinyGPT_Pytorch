@@ -69,7 +69,7 @@ The steady reduction in cross-entropy loss demonstrates that the model successfu
 
 ---
 
-## ✍️ Sample Generation
+## Sample Generation
 
 Prompt:
 
